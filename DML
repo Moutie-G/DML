@@ -1,0 +1,6 @@
+Insert into PRODUCT (P01, SamsungGalaxy, 3299)
+Insert into PRODUCT (P02, Asus, PC, 4566)
+
+Insert into Customer (C01, ALi, 758)
+
+Insert into Orders (C01, P02, NULL, 9857)
